@@ -1,0 +1,22 @@
+{
+  "slug": "browsergpt-agent",
+  "repo": "browsergpt-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/browsergpt-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "browser-automation",
+    "web-agent",
+    "browser-use",
+    "remote-browser",
+    "browsergpt"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/browsergpt-agent"
+}
