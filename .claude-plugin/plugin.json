@@ -3,7 +3,7 @@
   "name": "browsergpt-agent-by-nova",
   "displayName": "Browser Automation Agent by Nova (CIVAI)",
   "version": "1.0.0",
-  "description": "I do everything related to Browser Automation & Management",
+  "description": "Hand a web task to a cloud browser agent, then track its progress and read the session history.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co",
